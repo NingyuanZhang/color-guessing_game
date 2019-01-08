@@ -6,6 +6,6 @@ The player can change the easy mode or hard mode:easy mode generates 3 colors wh
 The player can also choose to start a new game at any time.
 ## Example
 ![easymode](https://github.com/NingyuanZhang/color-guessing_game/blob/master/Screenshots/easymode.PNG)
-![hardmode](https://github.com/NingyuanZhang/color-guessing_game/raw/master/Screenshots/hardmode.png)
+![hardmode](https://github.com/NingyuanZhang/color-guessing_game/raw/master/Screenshots/hardmode.PNG)
 
 
